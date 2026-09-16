@@ -1,3 +1,16 @@
+"""
+Como executar:
+1. Instale Python 3.10+.
+2. Instale a dependência:
+       pip install matplotlib
+3. Execute:
+       python lancamento_projetil_gui.py
+
+Bibliotecas usadas:
+- tkinter: interface gráfica, disponível normalmente com Python no Windows.
+- matplotlib: gráfico da trajetória.
+"""
+
 import math
 import tkinter as tk
 from tkinter import messagebox
