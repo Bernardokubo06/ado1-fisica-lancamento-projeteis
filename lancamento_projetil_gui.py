@@ -1,7 +1,7 @@
 """
 Como executar:
 1. Instale Python 3.10+.
-2. Instale a dependência:
+2. Instale a dependência no terminal do visual studio:
        pip install matplotlib
 3. Execute:
        python lancamento_projetil_gui.py
